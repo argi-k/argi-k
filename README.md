@@ -9,6 +9,8 @@
 [![Three.js](https://img.shields.io/badge/three.js-%23000000.svg?&style=for-the-badge&logo=three.js&logoColor=white)](https://github.com/argi-dev)
 [![Mongodb](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/argi-dev)
 
+Still working on the profile 😴
+
 <!--
 **argi-dev/argi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
