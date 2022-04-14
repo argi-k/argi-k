@@ -74,7 +74,7 @@
       <br>Git
     </td>
       <td align="center" width="96">
-      <a href="#postman" >
+      <a>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Postman
