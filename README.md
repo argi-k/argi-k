@@ -26,14 +26,14 @@
       </a>
       <br>React
     </td>
+    </tr>
+    <tr>
      <td align="center" width="120">
       <a href="#react-native">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="React Native" />
       </a>
       <br>React Native
     </td>
-  </tr>
-  <tr>
      <td align="center" width="96">
       <a href="#nodejs" >
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="48" height="48" alt="Nodejs" />
@@ -53,6 +53,7 @@
       </a>
       <br>Mongodb
     </td>
+    </tr>
       <td align="center" width="96">
       <a href="#threejs">
         <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="48" height="48"  alt="Threejs" />
@@ -61,12 +62,10 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="80" height="48" alt="Expressjs"
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="85" height="48" alt="Expressjs"
       </a>
         <br>Express
     </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
       <a href="#git" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
@@ -79,6 +78,5 @@
       </a>
       <br>Postman
     </td>
-
   </tr>
 </table>
