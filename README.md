@@ -60,7 +60,7 @@
       <br>Threejs
     </td>
     <td align="center" width="96">
-      <a href="#expressjs" >
+      <a>
         <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" width="80" height="48" alt="Expressjs"
       </a>
         <br>Express
@@ -74,7 +74,7 @@
       <br>Git
     </td>
       <td align="center" width="96">
-      <a>
+      <a href=#postman>
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Postman
