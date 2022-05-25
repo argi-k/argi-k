@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Argi Katsigiannides </h1>
-<hr>
+<!-- <hr> -->
 <p align="center">
   <img src="https://img.shields.io/badge/Age-19-blue" /> 
 <img src="https://img.shields.io/badge/Focus-Fullstack%20apps-blue" /> 
