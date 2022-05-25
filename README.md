@@ -6,12 +6,12 @@
 <img src="https://img.shields.io/badge/Lives-Greece-blue" />
 </p>
 
-
+<!-- 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; ***More about me...***
 
 🎓 &nbsp;I'm studying Computer Science at International Hellenic University.\
 💡&nbsp;Always trying to learn new technologies and tools that will help me create better software solutions.\
-🛠️&nbsp;I'm currently working on React projects.\
+🛠️&nbsp;I'm currently working on React projects.\ -->
 ✉️ &nbsp;Contact me: argiriskatse@gmail.com
 
 <hr>
