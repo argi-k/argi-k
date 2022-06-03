@@ -1,23 +1,3 @@
-<h1 align="center">Hello 👋, I am Argi Katsigiannides </h1>
-<!-- <hr> -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Age-19-blue" /> 
-<img src="https://img.shields.io/badge/Focus-Fullstack%20apps-blue" /> 
-<img src="https://img.shields.io/badge/Lives-Greece-blue" />
-</p>
-
-
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> &nbsp; ***More about me...***
-
-🎓 &nbsp;I'm studying Computer Science at International Hellenic University.\
-💡&nbsp;Always trying to learn new technologies and tools that will help me create better software solutions.\
-🛠️&nbsp;I'm currently working on React projects.\ -->
-✉️ &nbsp;Contact me: argiriskatse@gmail.com
-
-<hr>
-
-🛠️ &nbsp; ***Technologies and Tools...***
-
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
