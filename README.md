@@ -1,1 +1,1 @@
-<img src="https://github-readme-stats.vercel.app/api?username=argi-k&show_icons=true&theme=react&border_radius=10&custom_title=Argi%20Katsigiannides&count_private=true" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=argi-k&show_icons=true&border_radius=10&custom_title=Argi%20Katsigiannides&count_private=true" width="400"&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be>
